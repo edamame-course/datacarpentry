@@ -123,7 +123,7 @@ massIndex <- mass/age  # massIndex?
 ### Vectors and data types
 ```
 
-A vector is the most common and basic data structure in R, and is pretty much
+A vector is the most common and basic data structure in R, and it is pretty much
 the workhorse of R. It's a group of values, mainly either numbers or
 characters. You can assign this list of values to a variable, just like you
 would for one item. For example we can create a vector of animal weights:
